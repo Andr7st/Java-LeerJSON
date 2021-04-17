@@ -6,7 +6,7 @@ Leer archivos JSON usando librerías.
 * Lenguaje de programación: **Java**
 * Los archivos .json serán guardados en /Auxiliar
 
-**Librería 1:** json-simple-1.1.1.jar [https://code.google.com/archive/p/json-simple/downloads](https://code.google.com/archive/p/json-simple/downloads)
+**Librería:** json-simple-1.1.1.jar [https://code.google.com/archive/p/json-simple/downloads](https://code.google.com/archive/p/json-simple/downloads)
 
 ----
 
